@@ -1,6 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "programmer": "arduino:avrisp",
-    "sketch": "UNO_Zeke_Clicker.ino",
-    "port": "COM4"
-}
