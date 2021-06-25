@@ -2,4 +2,4 @@
 Arduino code to click a phone screen using a stepper motor.
 
 
-https://github.com/waarn/Phone-Clicker/blob/main/Schematics/Breadboard.jpg
+![Breadboard](http://url/to/img.png)
