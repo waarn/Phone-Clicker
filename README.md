@@ -12,6 +12,9 @@ Then open the serial port.
 Send the text B or C to the serial port to adujust the position of the stepper to click the screen then send A to the serial port.
 ##### Note: Case does not matter for the serial port.
 
+### To install Arduino in VS Code click here
+https://github.com/waarn/Phone-Clicker/blob/main/Instructions/VScode%20Arduino.pdf
+
 ## Breadboard View
 ![Breadboard](https://github.com/waarn/Phone-Clicker/raw/main/Schematics/Breadboard.jpg)
 
